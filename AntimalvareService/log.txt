@@ -1,0 +1,3669 @@
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1362185056
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 88481136
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 938472896
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1517088176
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 670242320
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 392830048
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 2049172528
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 794227504
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1494033456
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 695536224
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1058073232
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 638982208
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -376524912
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+Service is running....
+Service is running....
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 580052608
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1539282096
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Check3
+End writing.
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -331347776
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1959010368
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1465719344
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -934551808
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1266605152
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1225451648
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 408089872
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1811227552
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1046604624
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+Check3
+End writing.
+Service is running....
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -468850784
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+Check3
+End writing.
+Service is running....
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+Service is running....
+Service is running....
+Service is running....
+Invalid base64 data - wrong size
+Service is running....
+Invalid base64 data - wrong size
+Service is running....
+Service is running....
+Invalid base64 data - wrong size
+Service is running....
+Service is running....
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+Service is running....
+Invalid base64 data - wrong size
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1784485184
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2056653088
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2046495392
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -269922432
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1936920832
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 37877712
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Invalid base64 data - wrong size
+Invalid base64 data - wrong size
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -934885872
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1833096304
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Error: StartServiceCtrlDispatcher = 1063
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Error: StartServiceCtrlDispatcher = 1063
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1071692720
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1933188064
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Check3
+End writing.
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1006767696
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1673281200
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1344389264
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -105313584
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 668059616
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1210516176
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1592267104
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2087775264
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1171928752
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -306585104
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 2
+OpenSCManager success....
+CreateService success....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1287658848
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -188287024
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 302563392
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1579153552
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE1BEC2F68C1F030F44410054C9568FBFA53B4FC82B1006AD81CE43A9229F8D9BA39904372D0E06C28C3288FEAF5B821BE2404336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 2025108160
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2134178352
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -660151568
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+Service is running....
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1670775872
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2035060208
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1549208304
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1723491072
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2032336272
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -548742592
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -877856672
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -2002717024
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Check3
+End writing.
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -316015440
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 682560992
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1532961952
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1323826016
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1895114192
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+Error: License not found or expired...
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 44553104
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -651357632
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1434531392
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+Service is running....
+512
+C:\Users\user\source\repos\update-main\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = -1211874928
+RegisterServiceCtrlHandler success....
+2F607EB004265E98A7FE10347DBC2AF030F44410054C9568FBE0F55CAA54B1006AD81CE43A9229F8B0B63B987E72D0E06C28C3288FEAF580771A86A8336291C0
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 2
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\user\source\repos\update-main\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-859983662-2588628246-1914264500-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\user\source\repos\update-main\AntimalvareService\output.bin opened successfully.
+512
